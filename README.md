@@ -6,16 +6,16 @@ Git
 NodeJS
 
 Rodando o projeto:
-# Clone o repositório
+ Clone o repositório
 $ git clone https://github.com/Markoae/Next-Level-Week-2-Rockseat
 
-# Acesse a pasta do projeto no prompt de comando
+ Acesse a pasta do projeto no prompt de comando
 $ cd Nlw-2
 
-# Instale as dependências
+ Instale as dependências
 $ npm install
 
-# Execute o script "dev"
+ Execute o script "dev"
 $ npm run dev
 
-# O projeto inciará na porta: 3000 - acesse http://localhost:5500 
+ O projeto inciará na porta: 5500 - acesse http://localhost:5500 
